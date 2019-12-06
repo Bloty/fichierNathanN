@@ -1,0 +1,6 @@
+Nombre de a : 2
+Nombre de e : 2
+Nombre de i : 2
+Nombre de o : 2
+Nombre de u : 2
+Nombre de y : 2
